@@ -1,0 +1,712 @@
+=== РЎРўР РЈРљРўРЈР Рђ РЎРўР РђРќРР¦Р« РљРђРўР•Р“РћР РР ===
+URL: https://www.stanki.ru/catalog/metalloobrabatyvayuschee_oborudovanie/
+Р—Р°РіРѕР»РѕРІРѕРє: Металлообрабатывающие станки – купить станки и оборудование для металлообработки в Москве: каталог, низкие цены, производители, характеристики | КАМИ
+
+=== РџРћР”РљРђРўР•Р“РћР РР ===
+РЎРµР»РµРєС‚РѕСЂ: a[href^='/catalog/']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 173
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #1: в‚Ѕ -> /catalog/metalloobrabatyvayuschee_oborudovanie/?currency=rub
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #2: $ -> /catalog/metalloobrabatyvayuschee_oborudovanie/?currency=usd
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #3: ВҐ -> /catalog/metalloobrabatyvayuschee_oborudovanie/?currency=cny
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #4: в‚Ѕ -> /catalog/metalloobrabatyvayuschee_oborudovanie/?currency=rub
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #5: $ -> /catalog/metalloobrabatyvayuschee_oborudovanie/?currency=usd
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #6: ВҐ -> /catalog/metalloobrabatyvayuschee_oborudovanie/?currency=cny
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #7: Металлообработка
+              Металлообрабатывающее оборудование -> /catalog/metalloobrabatyvayuschee_oborudovanie/
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #8: Деревообработка
+              Деревообрабатывающее оборудование -> /catalog/derevoobrabatyvayushhee_oborudovanie/
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #9: Мебельное
+              Оборудование для производства мебели -> /catalog/oborudovanie_dlya_proizvodstva_mebeli/
+  РџРѕРґРєР°С‚РµРіРѕСЂРёСЏ #10: Тяжелая металлообработка -> /catalog/tyazhelaya_metalloobrabotka/
+---
+РЎРµР»РµРєС‚РѕСЂ: .subcategory
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+РЎРµР»РµРєС‚РѕСЂ: .category-item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+РЎРµР»РµРєС‚РѕСЂ: .subcategory-list a
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+РЎРµР»РµРєС‚РѕСЂ: .category-list a
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+РЎРµР»РµРєС‚РѕСЂ: .catalog__subcategory
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+РЎРµР»РµРєС‚РѕСЂ: .catalog a
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+
+=== РўРћР’РђР Р« ===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .catalog-cards .catalog-card
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .catalog-item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .product
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .product-item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .goods-item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .product-card
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .product-list-item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: [itemtype='http://schema.org/Product']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .catalog__product
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: [data-product-id]
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 36
+РўРѕРІР°СЂ #1 HTML:
+
+        <div class="productCard__main">
+            
+            
+            
+                <div class="productCard__nameplates nameplates js-product-nameplates">
+                                                    
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">В пути на склад</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">Свыше <b>1000 единиц</b> металлообрабатывающего оборудования <b>в пути на склад</b>!</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/v-puti-na-sklad-metal/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                            
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">Отгрузка без аванса</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">По программе лизинга от партнеров КАМИ</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/otgruzka-bez-avansa/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                    
+        <div class="nameplates__item nameplates__item_more" data-nameplate="more">
+            <button class="nameplates__more" type="button" aria-label="Показать все акции" data-control=""></button>
+        </div>
+    </div>
+
+                <div class="productCard__preview js-product-card-preview">
+        <a class="swiper" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank">
+            <div class="swiper-wrapper">
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/upload/resize_cache/iblock/015/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc.png" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC" loading="lazy"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="20722103" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="20722106" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466370" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466371" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466372" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466373" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466374" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                            </div>
+        </a>
+
+        <div class="swiper-controls">
+            <div class="swiper-button swiper-button-prev swiper-button-lock"></div>
+            <div class="swiper-button swiper-button-next swiper-button-lock"></div>
+        </div>
+    </div>
+        </div>
+
+        <div class="productCard__add">
+                            <div class="productCard__status productCard__status_inStock">В наличии</div>
+            
+                    </div>
+
+        
+<div class="productCard__prices">
+    
+        
+
+        <div class="productCard__price">От 3 911 481 в‚Ѕ</div>
+
+        
+        
+                    <div class="productCard__priceIcon" data-title="В наличии"></div>
+        
+            </div>
+
+    <div class="productCard__leasing">от
+        <span>228 170 в‚Ѕ</span>/мес.
+        в лизинг
+    </div>
+
+        <div class="productCard__info">
+            <a class="productCard__name" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank" title="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC">Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC</a>
+
+            
+            <div class="productCard__infoAdd">
+                
+                                    <button class="productCard__compare js-compare-product" type="button" data-product-id="9669358">
+                        <span>Сравнить</span>
+                        <span>В сравнении</span>
+                    </button>
+                            </div>
+
+            <div class="productCard__params">
+                <p>  	 Г обработки: 310; 360 мм  </p>  <p>  	 РМЦ: 450; 650 мм  </p>  <p>  	 Мощность: 11; 15 / 18,5 кВт  </p>  <p>  	 Вес: 3800; 5800 кг  </p>            </div>
+        </div>
+
+        <div class="productCard__controls">
+            <a class="productCard__link customButton customButton_gradient" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank">Подробнее</a>
+
+                            <a class="productCard__control productCard__control_video" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/#videos" aria-label="Смотреть видео" target="_blank"></a>
+            
+                            <button class="productCard__control productCard__control_compare js-compare-product" type="button" aria-label="Добавить в сравнение / Убрать из сравнения" data-product-id="9669358"></button>
+            
+                    </div>
+    
+РќР°Р·РІР°РЅРёРµ (a): Узнать
+                                    больше
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+---
+РўРѕРІР°СЂ #2 HTML:
+
+                        <span>Сравнить</span>
+                        <span>В сравнении</span>
+                    
+---
+РўРѕРІР°СЂ #3 HTML:
+
+---
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .catalog-grid__item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .catalog-element
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .card
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .product-box
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .goods
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .list-item
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: div[class*='product']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 159
+РўРѕРІР°СЂ #1 HTML:
+
+        <div class="productCard__main">
+            
+            
+            
+                <div class="productCard__nameplates nameplates js-product-nameplates">
+                                                    
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">В пути на склад</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">Свыше <b>1000 единиц</b> металлообрабатывающего оборудования <b>в пути на склад</b>!</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/v-puti-na-sklad-metal/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                            
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">Отгрузка без аванса</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">По программе лизинга от партнеров КАМИ</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/otgruzka-bez-avansa/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                    
+        <div class="nameplates__item nameplates__item_more" data-nameplate="more">
+            <button class="nameplates__more" type="button" aria-label="Показать все акции" data-control=""></button>
+        </div>
+    </div>
+
+                <div class="productCard__preview js-product-card-preview">
+        <a class="swiper" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank">
+            <div class="swiper-wrapper">
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/upload/resize_cache/iblock/015/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc.png" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC" loading="lazy"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="20722103" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="20722106" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466370" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466371" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466372" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466373" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466374" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                            </div>
+        </a>
+
+        <div class="swiper-controls">
+            <div class="swiper-button swiper-button-prev swiper-button-lock"></div>
+            <div class="swiper-button swiper-button-next swiper-button-lock"></div>
+        </div>
+    </div>
+        </div>
+
+        <div class="productCard__add">
+                            <div class="productCard__status productCard__status_inStock">В наличии</div>
+            
+                    </div>
+
+        
+<div class="productCard__prices">
+    
+        
+
+        <div class="productCard__price">От 3 911 481 в‚Ѕ</div>
+
+        
+        
+                    <div class="productCard__priceIcon" data-title="В наличии"></div>
+        
+            </div>
+
+    <div class="productCard__leasing">от
+        <span>228 170 в‚Ѕ</span>/мес.
+        в лизинг
+    </div>
+
+        <div class="productCard__info">
+            <a class="productCard__name" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank" title="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC">Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC</a>
+
+            
+            <div class="productCard__infoAdd">
+                
+                                    <button class="productCard__compare js-compare-product" type="button" data-product-id="9669358">
+                        <span>Сравнить</span>
+                        <span>В сравнении</span>
+                    </button>
+                            </div>
+
+            <div class="productCard__params">
+                <p>  	 Г обработки: 310; 360 мм  </p>  <p>  	 РМЦ: 450; 650 мм  </p>  <p>  	 Мощность: 11; 15 / 18,5 кВт  </p>  <p>  	 Вес: 3800; 5800 кг  </p>            </div>
+        </div>
+
+        <div class="productCard__controls">
+            <a class="productCard__link customButton customButton_gradient" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank">Подробнее</a>
+
+                            <a class="productCard__control productCard__control_video" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/#videos" aria-label="Смотреть видео" target="_blank"></a>
+            
+                            <button class="productCard__control productCard__control_compare js-compare-product" type="button" aria-label="Добавить в сравнение / Убрать из сравнения" data-product-id="9669358"></button>
+            
+                    </div>
+    
+РќР°Р·РІР°РЅРёРµ (a): Узнать
+                                    больше
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+---
+РўРѕРІР°СЂ #2 HTML:
+
+            
+            
+            
+                <div class="productCard__nameplates nameplates js-product-nameplates">
+                                                    
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">В пути на склад</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">Свыше <b>1000 единиц</b> металлообрабатывающего оборудования <b>в пути на склад</b>!</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/v-puti-na-sklad-metal/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                            
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">Отгрузка без аванса</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">По программе лизинга от партнеров КАМИ</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/otgruzka-bez-avansa/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                    
+        <div class="nameplates__item nameplates__item_more" data-nameplate="more">
+            <button class="nameplates__more" type="button" aria-label="Показать все акции" data-control=""></button>
+        </div>
+    </div>
+
+                <div class="productCard__preview js-product-card-preview">
+        <a class="swiper" href="/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/" target="_blank">
+            <div class="swiper-wrapper">
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/upload/resize_cache/iblock/015/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc.png" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC" loading="lazy"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="20722103" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="20722106" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466370" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466371" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466372" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466373" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                                    
+                    <div class="swiper-slide">
+                                                    <img src="/bitrix/templates/2023/images/ajax.svg" data-picture-id="23466374" alt="Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC"/>
+                                            </div>
+                            </div>
+        </a>
+
+        <div class="swiper-controls">
+            <div class="swiper-button swiper-button-prev swiper-button-lock"></div>
+            <div class="swiper-button swiper-button-next swiper-button-lock"></div>
+        </div>
+    </div>
+        
+РќР°Р·РІР°РЅРёРµ (a): Узнать
+                                    больше
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+---
+РўРѕРІР°СЂ #3 HTML:
+
+                                                    
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">В пути на склад</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">Свыше <b>1000 единиц</b> металлообрабатывающего оборудования <b>в пути на склад</b>!</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/v-puti-na-sklad-metal/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                            
+                                    <div class="nameplates__item" data-nameplate="popup">
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">Отгрузка без аванса</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">По программе лизинга от партнеров КАМИ</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/otgruzka-bez-avansa/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    </div>
+                                    
+        <div class="nameplates__item nameplates__item_more" data-nameplate="more">
+            <button class="nameplates__more" type="button" aria-label="Показать все акции" data-control=""></button>
+        </div>
+    
+РќР°Р·РІР°РЅРёРµ (a): Узнать
+                                    больше
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+---
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: div[class*='catalog'] div[class*='item']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 28
+РўРѕРІР°СЂ #1 HTML:
+
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">В пути на склад</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">Свыше <b>1000 единиц</b> металлообрабатывающего оборудования <b>в пути на склад</b>!</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/v-puti-na-sklad-metal/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    
+РќР°Р·РІР°РЅРёРµ (a): Узнать
+                                    больше
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+---
+РўРѕРІР°СЂ #2 HTML:
+
+                        <button class="customButton customButton_more customButton_arrow " type="button" data-control="">Отгрузка без аванса</button>
+
+                        <div class="nameplates__details" data-detail="">
+                            <button class="nameplates__close" type="button" aria-label="Закрыть попап" data-detail-close=""></button>
+
+                                                            <div class="nameplates__text">По программе лизинга от партнеров КАМИ</div>
+                            
+                                                            <a class="nameplates__link" target="_blank" href="/spec/otgruzka-bez-avansa/" onclick="if (!window.__cfRLUnblockHandlers) return false; ym(2560525,&#39;reachGoal&#39;,&#39;Akcyabutton&#39;); return true;" data-cf-modified-dcf59a03e23fbb13473b8b16-="">Узнать
+                                    больше</a>
+                            
+                        </div>
+                    
+РќР°Р·РІР°РЅРёРµ (a): Узнать
+                                    больше
+РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+---
+РўРѕРІР°СЂ #3 HTML:
+
+            <button class="nameplates__more" type="button" aria-label="Показать все акции" data-control=""></button>
+        
+---
+===
+РЎРµР»РµРєС‚РѕСЂ С‚РѕРІР°СЂРѕРІ: .catalog__main .catalog-card
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+===
+
+=== РђРќРђР›РР— РЎРЎР«Р›РћРљ ===
+РќР°Р№РґРµРЅРѕ 129 СѓРЅРёРєР°Р»СЊРЅС‹С… СЃСЃС‹Р»РѕРє РЅР° РІРѕР·РјРѕР¶РЅС‹Рµ С‚РѕРІР°СЂС‹
+  РЎСЃС‹Р»РєР° #1: /catalog/otreznye-stanki-po-metallu/
+  РЎСЃС‹Р»РєР° #2: /catalog/oborudovanie_dlya_probivki_otverstiy_v_trubakh_i_profile/
+  РЎСЃС‹Р»РєР° #3: /catalog/metallorezhushchie_stanki/
+  РЎСЃС‹Р»РєР° #4: /catalog/zubodolbezhnye_stanki/
+  РЎСЃС‹Р»РєР° #5: /catalog/metalloobrabatyvayuschee_oborudovanie/chien_yu/
+  РЎСЃС‹Р»РєР° #6: /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_sl2000_s_y/
+  РЎСЃС‹Р»РєР° #7: /catalog/gidravlicheskie_listogibochnye_pressy/gidravlicheskie_listogibochnye_pressy_serii_hpb_k/
+  РЎСЃС‹Р»РєР° #8: /catalog/metalloobrabatyvayuschee_oborudovanie/takisawa/
+  РЎСЃС‹Р»РєР° #9: /catalog/metalloobrabatyvayuschee_oborudovanie/tcm/
+  РЎСЃС‹Р»РєР° #10: /catalog/metalloobrabatyvayuschee_oborudovanie/fedek/
+
+=== РџРћРРЎРљ Р‘Р›РћРљРћР’ РЎ РўРћР’РђР РђРњР ===
+РЎРµР»РµРєС‚РѕСЂ: div[class*='catalog']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 59
+РљР»Р°СЃСЃС‹ РЅР°Р№РґРµРЅРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ:
+  #1: headerPage__catalog headerCatalog js-header-menu-catalog
+    РЎРѕРґРµСЂР¶РёС‚ 15 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Металлообработка
+              Металлообрабатывающее оборудование -> /catalog/metalloobrabatyvayuschee_oborudovanie/
+    РЎСЃС‹Р»РєР°: Деревообработка
+              Деревообрабатывающее оборудование -> /catalog/derevoobrabatyvayushhee_oborudovanie/
+  #2: catalogSections__preview  lozad
+  #3: catalogSections__accentIcon
+  #4: catalogSections__preview  lozad
+  #5: catalogSections__accentIcon
+  #6: catalogSections__preview  lozad
+  #7: catalogSections__accentIcon
+  #8: catalogSections__preview  lozad
+  #9: catalogSections__accentIcon
+  #10: catalogSections__preview  lozad
+---
+РЎРµР»РµРєС‚РѕСЂ: div[class*='product']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 159
+РљР»Р°СЃСЃС‹ РЅР°Р№РґРµРЅРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ:
+  #1: productCard 
+    РЎРѕРґРµСЂР¶РёС‚ 6 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+  #2: productCard__main
+    РЎРѕРґРµСЂР¶РёС‚ 3 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+  #3: productCard__nameplates nameplates js-product-nameplates
+    РЎРѕРґРµСЂР¶РёС‚ 2 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+  #4: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/
+  #5: productCard__add
+  #6: productCard__status productCard__status_inStock
+  #7: productCard__prices
+  #8: productCard__price
+  #9: productCard__priceIcon
+  #10: productCard__leasing
+---
+РЎРµР»РµРєС‚РѕСЂ: div[class*='item']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 28
+РљР»Р°СЃСЃС‹ РЅР°Р№РґРµРЅРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ:
+  #1: nameplates__item
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+  #2: nameplates__item
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+  #3: nameplates__item nameplates__item_more
+  #4: nameplates__item
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+  #5: nameplates__item
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Подробнее о системе ЧПУ H-CNC -> /catalog/programmnoe_obespechenie/sistema_chpu_h_cnc/
+  #6: nameplates__item nameplates__item_more
+  #7: nameplates__item
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+  #8: nameplates__item
+  #9: nameplates__item nameplates__item_more
+  #10: nameplates__item
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/skidki_do_32/
+---
+РЎРµР»РµРєС‚РѕСЂ: div[class*='card']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 12
+РљР»Р°СЃСЃС‹ РЅР°Р№РґРµРЅРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ:
+  #1: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/
+  #2: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/c_gorizontalnoy_staninoy/tokarnyy_stanok_s_chpu_ironmac_it_560/
+  #3: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_tsentry_skm_ceriya_nl1500_2000/
+  #4: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_dl2500_m_dl3000l_m/
+  #5: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_stanki_s_chpu_s_naklonnoy_staninoy_spectr_tc/
+  #6: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_dl4000_m/
+  #7: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_sl2000_s_y/
+  #8: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_sl1500m_i_sl2000m/
+  #9: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/s_naklonnoy_staninoy/tokarnye_obrabatyvayushchie_tsentry_skm_dl6000_l_dl7000_l_dl8000_l/
+  #10: productCard__preview js-product-card-preview
+    РЎРѕРґРµСЂР¶РёС‚ 1 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°:  -> /catalog/gidravlicheskie_listogibochnye_pressy/gidravlicheskie_listogibochnye_pressy_serii_hpb_k/
+---
+РЎРµР»РµРєС‚РѕСЂ: div[class*='goods']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 0
+---
+РЎРµР»РµРєС‚РѕСЂ: div[class*='list']
+РќР°Р№РґРµРЅРѕ СЌР»РµРјРµРЅС‚РѕРІ: 2
+РљР»Р°СЃСЃС‹ РЅР°Р№РґРµРЅРЅС‹С… СЌР»РµРјРµРЅС‚РѕРІ:
+  #1: catalogMain__list
+    РЎРѕРґРµСЂР¶РёС‚ 61 СЃСЃС‹Р»РѕРє
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/v-puti-na-sklad-metal/
+    РЎСЃС‹Р»РєР°: Узнать
+                                    больше -> /spec/otgruzka-bez-avansa/
+  #2: pagination__list
+---

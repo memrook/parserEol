@@ -1,0 +1,115 @@
+=== Ð¡Ð¢Ð Ð£ÐšÐ¢Ð£Ð Ð ÐšÐÐ¢ÐÐ›ÐžÐ“Ð ===
+Ð—Ð°Ð³Ð¾Ð»Ð¾Ð²Ð¾Ðº ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ñ‹: ÊÀÌÈ — ìåòàëëîîáðàáàòûâàþùåå, äåðåâîîáðàáàòûâàþùåå îáîðóäîâàíèå, ñòàíêè äëÿ ìåáåëüíîãî ïðîèçâîäñòâà, çàïàñíûå ÷àñòè è èíñòðóìåíò ñ äîñòàâêîé ïî Ðîññèè
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: ul.catalog
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: ul.catalog li
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: div.catalog
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: div.catalog a
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .catalog__list
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .catalog-list
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .category-list
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .catalog-categories
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .content a
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .content li
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .catalog-wrapper a
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .catalog-item
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: #catalog
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: #catalog-list
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .left-menu a
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: .sidebar a
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: div.catalog-section
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+Ð¡ÐµÐ»ÐµÐºÑ‚Ð¾Ñ€: div.catalog-section a
+ÐÐ°Ð¹Ð´ÐµÐ½Ð¾ ÑÐ»ÐµÐ¼ÐµÐ½Ñ‚Ð¾Ð²: 0
+===
+
+=== ÐŸÐžÐ˜Ð¡Ðš Ð‘Ð›ÐžÐšÐžÐ’ Ð¡ ÐšÐÐ¢ÐÐ›ÐžÐ“ÐžÐœ ===
+Ð‘Ð»Ð¾Ðº #1, ÐºÐ»Ð°ÑÑ: headerPage__catalog headerCatalog js-header-menu-catalog
+  Ð¡ÑÑ‹Ð»Ð¾Ðº Ð²Ð½ÑƒÑ‚Ñ€Ð¸: 15
+    Ð¡ÑÑ‹Ð»ÐºÐ° 1: Ìåòàëëîîáðàáîòêà
+              Ìåòàëëîîáðàáàòûâàþùåå îáîðóäîâàíèå -> /catalog/metalloobrabatyvayuschee_oborudovanie/
+    Ð¡ÑÑ‹Ð»ÐºÐ° 2: Äåðåâîîáðàáîòêà
+              Äåðåâîîáðàáàòûâàþùåå îáîðóäîâàíèå -> /catalog/derevoobrabatyvayushhee_oborudovanie/
+    Ð¡ÑÑ‹Ð»ÐºÐ° 3: Ìåáåëüíîå
+              Îáîðóäîâàíèå äëÿ ïðîèçâîäñòâà ìåáåëè -> /catalog/oborudovanie_dlya_proizvodstva_mebeli/
+    Ð¡ÑÑ‹Ð»ÐºÐ° 4: Òÿæåëàÿ ìåòàëëîîáðàáîòêà -> /catalog/tyazhelaya_metalloobrabotka/
+    Ð¡ÑÑ‹Ð»ÐºÐ° 5: Èíñòðóìåíò
+              Èíñòðóìåíò è çàòî÷íîå îáîðóäîâàíèå -> /catalog/instrument/
+---
+
+=== Ð¡Ð¡Ð«Ð›ÐšÐ˜ ÐÐ ÐšÐÐ¢Ð•Ð“ÐžÐ Ð˜Ð˜ ===
+Ð¡ÑÑ‹Ð»ÐºÐ° #1: Ìåòàëëîîáðàáîòêà
+              Ìåòàëëîîáðàáàòûâàþùåå îáîðóäîâàíèå -> /catalog/metalloobrabatyvayuschee_oborudovanie/
+Ð¡ÑÑ‹Ð»ÐºÐ° #2: Äåðåâîîáðàáîòêà
+              Äåðåâîîáðàáàòûâàþùåå îáîðóäîâàíèå -> /catalog/derevoobrabatyvayushhee_oborudovanie/
+Ð¡ÑÑ‹Ð»ÐºÐ° #3: Ìåáåëüíîå
+              Îáîðóäîâàíèå äëÿ ïðîèçâîäñòâà ìåáåëè -> /catalog/oborudovanie_dlya_proizvodstva_mebeli/
+Ð¡ÑÑ‹Ð»ÐºÐ° #4: Òÿæåëàÿ ìåòàëëîîáðàáîòêà -> /catalog/tyazhelaya_metalloobrabotka/
+Ð¡ÑÑ‹Ð»ÐºÐ° #5: Èíñòðóìåíò
+              Èíñòðóìåíò è çàòî÷íîå îáîðóäîâàíèå -> /catalog/instrument/
+Ð¡ÑÑ‹Ð»ÐºÐ° #6: Ñòåêëîîáðàáàòûâàþùåå îáîðóäîâàíèå -> /catalog/stekloobrabatyvayuschee_oborudovanie/
+Ð¡ÑÑ‹Ð»ÐºÐ° #7: Êàìíåîáðàáàòûâàþùåå îáîðóäîâàíèå -> /catalog/kamneobrabatyvayushchee_oborudovanie/
+Ð¡ÑÑ‹Ð»ÐºÐ° #8: Çàòî÷íîå
+              Îáîðóäîâàíèå äëÿ çàòî÷êè èíñòðóìåíòà -> /catalog/oborudovanie_dlya_zatochki_i_podgotovki_metallorezhushchego_instrumenta/
+Ð¡ÑÑ‹Ð»ÐºÐ° #9: Ñïåöèàëèçèðîâàííîå îáîðóäîâàíèå -> /catalog/spetsializirovannoe_oborudovanie/
+Ð¡ÑÑ‹Ð»ÐºÐ° #10: Ôðåçåðíûå ñòàíêè è öåíòðû ñ ×ÏÓ -> /catalog/frezernye_stanki_i_centry_s_chpu/
+Ð¡ÑÑ‹Ð»ÐºÐ° #11:  -> /catalog/tokarnye_obrabatyvayushchie_tsentry/skm/
+Ð¡ÑÑ‹Ð»ÐºÐ° #12:  -> /catalog/planshetno_rezhushchie_plottery/mnogofunktsionalnyy_planshetno_rezhushchiy_plotter_filato_digicut_1625/
+Ð¡ÑÑ‹Ð»ÐºÐ° #13: Ìåòàëëîîáðàáîòêà -> /catalog/metalloobrabatyvayuschee_oborudovanie/
+Ð¡ÑÑ‹Ð»ÐºÐ° #14: Òîêàðíûå -> /catalog/tokarnye-stanki-po-metallu/
+Ð¡ÑÑ‹Ð»ÐºÐ° #15: Ôðåçåðíûå -> /catalog/frezernye-stanki-po-metallu/
+Ð¡ÑÑ‹Ð»ÐºÐ° #16: Øëèôîâàëüíûå -> /catalog/shlifovalnoe_oborudovanie__/
+Ð¡ÑÑ‹Ð»ÐºÐ° #17: Ëàçåðíàÿ ðåçêà -> /catalog/kompleksy_lazernogo_raskroya/
+Ð¡ÑÑ‹Ð»ÐºÐ° #18: Çóáîîáðàáîòêà -> /catalog/zubo_i_rezboobrabatyvayushchie_stanki/
+Ð¡ÑÑ‹Ð»ÐºÐ° #19: Ëèñòîãèáû -> /catalog/gidravlicheskie_listogibochnye_pressy/
+Ð¡ÑÑ‹Ð»ÐºÐ° #20: Åùå +31 -> /catalog/metalloobrabatyvayuschee_oborudovanie/

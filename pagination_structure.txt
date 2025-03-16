@@ -1,0 +1,63 @@
+=== ИССЛЕДОВАНИЕ ПАГИНАЦИИ ===
+URL: https://www.stanki.ru/catalog/metalloobrabatyvayuschee_oborudovanie/
+
+=== ЭЛЕМЕНТЫ ПАГИНАЦИИ ===
+Селектор: .pagination
+Найдено элементов: 1
+HTML:
+
+    
+    <button class="pagination__more button button_white" type="button" data-pagination-more="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=2&amp;sort=popular">
+        Показать еще
+    </button>
+
+<div class="pagination__pages">
+            <button class="button button_page button_prev" type="button" disabled=""></button>
+    
+    <div class="pagination__list">
+                                    <button class="button button_page active" type="button" data-pagination-button="/catalog/kompleksy_lazernogo_raskroya/">
+                    1                </button>
+                                                            <button class="button button_page" type="button" data-pagination-button="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=2">
+                    2                </button>
+                                                            <button class="button button_page" type="button" data-pagination-button="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=3">
+                    3                </button>
+                                
+                    <button class="button button_page" type="button" disabled="">...</button>
+                            <button class="button button_page" type="button" data-pagination-button="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=33">
+                    33                </button>
+                                            <button class="button button_page" type="button" data-pagination-button="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=34">
+                    34                </button>
+                                            <button class="button button_page" type="button" data-pagination-button="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=35">
+                    35                </button>
+                                        </div>
+
+            <button class="button button_page button_next" type="button" data-pagination-button="/catalog/metalloobrabatyvayuschee_oborudovanie/?PAGEN_2=2"></button>
+    </div>
+    
+---
+Селектор: .paginations
+Найдено элементов: 0
+---
+Селектор: .nav-links
+Найдено элементов: 0
+---
+Селектор: .pager
+Найдено элементов: 0
+---
+Селектор: .pages
+Найдено элементов: 0
+---
+Селектор: .pagenation
+Найдено элементов: 0
+---
+Селектор: .modern-page-navigation
+Найдено элементов: 0
+---
+
+=== ССЫЛКИ С PAGEN_2 ===
+
+=== СКРИПТЫ С ИНФОРМАЦИЕЙ О ПАГИНАЦИИ ===
+
+=== РЕЗУЛЬТАТЫ АНАЛИЗА ===
+Найдено товаров: 12
+Есть следующая страница: true
