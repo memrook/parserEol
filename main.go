@@ -17,7 +17,9 @@ import (
 
 	"github.com/PuerkitoBio/goquery"
 	"golang.org/x/net/html/charset"
+	"golang.org/x/text/cases"
 	"golang.org/x/text/encoding/charmap"
+	"golang.org/x/text/language"
 	"golang.org/x/text/transform"
 )
 
@@ -62,7 +64,15 @@ func main() {
 	categoryURLs := flag.String("categories", "", "Список URL категорий через запятую (если не указано, будут использованы все категории)")
 	startPage := flag.Int("start-page", 1, "Начальная страница для парсинга (по умолчанию 1)")
 	endPage := flag.Int("end-page", 0, "Конечная страница для парсинга (0 - все страницы)")
+	threads := flag.Int("threads", concurrency, "Количество одновременных потоков для загрузки данных (по умолчанию 5)")
+	enrichThreads := flag.Int("enrich-threads", 10, "Количество одновременных потоков для обогащения деталями (по умолчанию 10)")
+	delayMs := flag.Int("delay", delay, "Задержка между запросами в миллисекундах (по умолчанию 500)")
 	flag.Parse()
+
+	// Обновляем значения задержки, если указано в параметрах
+	if *delayMs != delay {
+		log.Printf("Установлена задержка между запросами: %d мс", *delayMs)
+	}
 
 	if *inspectMode {
 		fmt.Println("Запуск в режиме исследования структуры сайта...")
@@ -112,7 +122,7 @@ func main() {
 					if parts[i] != "" {
 						name = parts[i]
 						name = strings.ReplaceAll(name, "_", " ")
-						name = strings.Title(name)
+						name = cases.Title(language.Russian).String(name)
 						break
 					}
 				}
@@ -149,14 +159,14 @@ func main() {
 	var wg sync.WaitGroup
 
 	// Семафор для ограничения количества одновременных запросов
-	semaphore := make(chan struct{}, concurrency)
+	semaphore := make(chan struct{}, *threads)
 
 	// Запускаем парсинг каждой категории в отдельной горутине
 	for _, category := range categories {
 		wg.Add(1)
 		go func(cat Category) {
 			defer wg.Done()
-			products, err := getProductsFromCategory(cat, semaphore, *startPage, *endPage)
+			products, err := getProductsFromCategory(cat, semaphore, *startPage, *endPage, *delayMs)
 			if err != nil {
 				log.Printf("Ошибка парсинга категории %s: %v", cat.Name, err)
 				return
@@ -182,10 +192,25 @@ func main() {
 
 	fmt.Printf("Всего найдено %d товаров\n", len(allProducts))
 
+	// Удаляем дубликаты товаров по ID
+	allProducts = removeDuplicateProducts(allProducts)
+	fmt.Printf("После удаления дубликатов: %d уникальных товаров\n", len(allProducts))
+
 	// Если не нужно пропускать детали, обогащаем товары детальной информацией
 	if !*skipDetails {
 		fmt.Println("Начинаем обогащение товаров детальной информацией...")
-		enrichProductsWithDetails(allProducts, semaphore)
+		// Создаем новый слайс для обогащенных товаров
+		// и передаем его по ссылке
+		enrichedProducts := make([]Product, len(allProducts))
+		copy(enrichedProducts, allProducts)
+
+		// Создаем отдельный семафор для обогащения с возможно большим количеством потоков
+		enrichSemaphore := make(chan struct{}, *enrichThreads)
+		log.Printf("Используется %d одновременных потоков для обогащения", *enrichThreads)
+
+		enrichProductsWithDetails(enrichedProducts, enrichSemaphore, *delayMs)
+		// Заменяем исходный слайс обогащенным
+		allProducts = enrichedProducts
 		fmt.Println("Обогащение товаров завершено")
 	} else {
 		fmt.Println("Пропуск загрузки детальной информации о товарах (флаг -skip-details)")
@@ -221,7 +246,7 @@ func main() {
 }
 
 // doRequestWithRetry выполняет HTTP запрос с повторными попытками в случае ошибки
-func doRequestWithRetry(url string, maxRetries int) (*http.Response, error) {
+func doRequestWithRetry(url string, maxRetries int, delayMs int) (*http.Response, error) {
 	var resp *http.Response
 	var err error
 
@@ -232,7 +257,7 @@ func doRequestWithRetry(url string, maxRetries int) (*http.Response, error) {
 		}
 
 		log.Printf("Ошибка при запросе %s: %v. Повторная попытка %d из %d", url, err, i+1, maxRetries)
-		time.Sleep(time.Duration(delay*(i+1)) * time.Millisecond) // Увеличиваем задержку с каждой попыткой
+		time.Sleep(time.Duration(delayMs*(i+1)) * time.Millisecond) // Увеличиваем задержку с каждой попыткой
 	}
 
 	return nil, fmt.Errorf("не удалось выполнить запрос после %d попыток: %v", maxRetries, err)
@@ -240,7 +265,7 @@ func doRequestWithRetry(url string, maxRetries int) (*http.Response, error) {
 
 // getCategories получает список всех категорий с сайта
 func getCategories() ([]Category, error) {
-	resp, err := doRequestWithRetry(catalogURL, 3)
+	resp, err := doRequestWithRetry(catalogURL, 3, delay)
 	if err != nil {
 		return nil, err
 	}
@@ -298,7 +323,7 @@ func getCategories() ([]Category, error) {
 }
 
 // getProductsFromCategory получает все товары из указанной категории
-func getProductsFromCategory(category Category, semaphore chan struct{}, startPage, endPage int) ([]Product, error) {
+func getProductsFromCategory(category Category, semaphore chan struct{}, startPage, endPage int, delayMs int) ([]Product, error) {
 	semaphore <- struct{}{}        // Занимаем слот в семафоре
 	defer func() { <-semaphore }() // Освобождаем слот при выходе
 
@@ -326,10 +351,10 @@ func getProductsFromCategory(category Category, semaphore chan struct{}, startPa
 		log.Printf("Обрабатываем страницу %d категории %s: %s", pageNum, category.Name, pageURL)
 
 		// Делаем задержку между запросами страниц
-		time.Sleep(time.Duration(delay) * time.Millisecond)
+		time.Sleep(time.Duration(delayMs) * time.Millisecond)
 
 		// Получаем страницу с товарами
-		resp, err := doRequestWithRetry(pageURL, 2)
+		resp, err := doRequestWithRetry(pageURL, 2, delayMs)
 		if err != nil {
 			return nil, err
 		}
@@ -558,13 +583,13 @@ func extractProductsFromPage(doc *goquery.Document, category Category) ([]Produc
 }
 
 // getProductDetails получает детальную информацию о товаре
-func getProductDetails(url string, semaphore chan struct{}) (Product, error) {
+func getProductDetails(url string, semaphore chan struct{}, delayMs int) (Product, error) {
 	semaphore <- struct{}{}        // Занимаем слот в семафоре
 	defer func() { <-semaphore }() // Освобождаем слот при выходе
 
-	time.Sleep(time.Duration(delay) * time.Millisecond) // Задержка между запросами
+	time.Sleep(time.Duration(delayMs) * time.Millisecond) // Задержка между запросами
 
-	resp, err := doRequestWithRetry(url, 2)
+	resp, err := doRequestWithRetry(url, 2, delayMs)
 	if err != nil {
 		return Product{}, err
 	}
@@ -637,16 +662,30 @@ func getUTF8Reader(r io.Reader) (io.Reader, error) {
 
 // saveToJSON сохраняет данные в JSON файл
 func saveToJSON(data interface{}, filename string) error {
-	jsonData, err := json.MarshalIndent(data, "", "  ")
+	// Создаем файл для записи с BOM
+	file, err := os.Create(filename)
 	if err != nil {
 		return err
 	}
+	defer file.Close()
 
-	// Добавляем BOM для корректного отображения UTF-8 в Windows
+	// Записываем BOM для корректного отображения UTF-8 в Windows
 	bom := []byte{0xEF, 0xBB, 0xBF}
-	jsonDataWithBOM := append(bom, jsonData...)
+	if _, err := file.Write(bom); err != nil {
+		return err
+	}
 
-	return os.WriteFile(filename, jsonDataWithBOM, 0644)
+	// Используем Encoder для экономии памяти при сериализации больших объемов данных
+	encoder := json.NewEncoder(file)
+	encoder.SetIndent("", "  ")  // Устанавливаем отступы для читаемости
+	encoder.SetEscapeHTML(false) // Не экранировать HTML-символы
+
+	// Сериализуем данные непосредственно в файл
+	if err := encoder.Encode(data); err != nil {
+		return err
+	}
+
+	return nil
 }
 
 // saveToCSV сохраняет данные в CSV файл с разделителем ";"
@@ -666,6 +705,10 @@ func saveToCSV(products []Product, filename string) error {
 
 	writer := csv.NewWriter(file)
 	writer.Comma = ';' // Устанавливаем разделитель ";"
+
+	// Увеличиваем буфер для CSV Writer для улучшения производительности
+	// при большом количестве записей
+	writer.UseCRLF = true // Использовать CRLF для совместимости с Windows
 	defer writer.Flush()
 
 	// Записываем заголовки
@@ -673,6 +716,10 @@ func saveToCSV(products []Product, filename string) error {
 	if err := writer.Write(headers); err != nil {
 		return err
 	}
+
+	// Пакетная запись для улучшения производительности
+	batchSize := 1000
+	records := make([][]string, 0, batchSize)
 
 	// Записываем данные продуктов
 	for _, product := range products {
@@ -690,7 +737,20 @@ func saveToCSV(products []Product, filename string) error {
 			featuresStr,
 		}
 
-		if err := writer.Write(record); err != nil {
+		records = append(records, record)
+
+		// Когда накопилось достаточно записей, записываем их и сбрасываем массив
+		if len(records) >= batchSize {
+			if err := writer.WriteAll(records); err != nil {
+				return err
+			}
+			records = records[:0]
+		}
+	}
+
+	// Записываем оставшиеся записи
+	if len(records) > 0 {
+		if err := writer.WriteAll(records); err != nil {
 			return err
 		}
 	}
@@ -698,8 +758,8 @@ func saveToCSV(products []Product, filename string) error {
 	return nil
 }
 
-// После завершения парсинга всех категорий можно дополнительно обогатить товары детальной информацией
-func enrichProductsWithDetails(products []Product, semaphore chan struct{}) {
+// enrichProductsWithDetails обогащает товары детальной информацией
+func enrichProductsWithDetails(products []Product, semaphore chan struct{}, delayMs int) {
 	// Создаем WaitGroup для ожидания завершения всех обогащений
 	var wg sync.WaitGroup
 
@@ -708,10 +768,13 @@ func enrichProductsWithDetails(products []Product, semaphore chan struct{}) {
 
 	// Создаем переменные для отслеживания прогресса
 	var processed, skipped, enriched, errors int
-	var mutex sync.Mutex // Мьютекс для безопасного обновления счетчиков
+	var mutex sync.Mutex             // Мьютекс для безопасного обновления счетчиков
+	errorMap := make(map[string]int) // Храним ошибки и их количество
+
+	startTime := time.Now()
 
 	// Функция для обновления и вывода прогресса
-	updateProgress := func(action string) {
+	updateProgress := func(action string, errorMsg string) {
 		mutex.Lock()
 		defer mutex.Unlock()
 
@@ -724,37 +787,74 @@ func enrichProductsWithDetails(products []Product, semaphore chan struct{}) {
 			enriched++
 		case "error":
 			errors++
+			errorMap[errorMsg]++
 		}
 
 		// Каждые 10 товаров или по завершении выводим прогресс
 		if processed%10 == 0 || processed == len(products) {
 			progress := float64(processed) / float64(len(products)) * 100
-			log.Printf("Прогресс обогащения: %.1f%% (%d/%d) - Обогащено: %d, Пропущено: %d, Ошибок: %d",
-				progress, processed, len(products), enriched, skipped, errors)
+			elapsed := time.Since(startTime)
+			itemsPerSecond := float64(processed) / elapsed.Seconds()
+
+			// Оценка оставшегося времени
+			var eta time.Duration
+			if processed > 0 {
+				eta = time.Duration(float64(len(products)-processed) / itemsPerSecond * float64(time.Second))
+			}
+
+			log.Printf("Прогресс обогащения: %.1f%% (%d/%d) - Обогащено: %d, Пропущено: %d, Ошибок: %d, Скорость: %.1f товаров/сек, Осталось: %v",
+				progress, processed, len(products), enriched, skipped, errors, itemsPerSecond, eta.Round(time.Second))
 		}
 	}
 
 	log.Printf("Начинаем обогащение %d товаров детальной информацией...", len(products))
 
+	// Вычисляем размер батча для вывода прогресса - используется в updateProgress
+	batchSize := maxNum(1, len(products)/20) // 5% шаг
+
+	// Обновляем логику обновления прогресса с использованием batchSize
+	oldUpdateProgress := updateProgress
+	updateProgress = func(action string, errorMsg string) {
+		oldUpdateProgress(action, errorMsg)
+		// Выводим прогресс каждые batchSize товаров вместо каждых 10
+		if processed%batchSize == 0 || processed == len(products) {
+			progress := float64(processed) / float64(len(products)) * 100
+			elapsed := time.Since(startTime)
+			itemsPerSecond := float64(processed) / elapsed.Seconds()
+
+			// Оценка оставшегося времени
+			var eta time.Duration
+			if processed > 0 {
+				eta = time.Duration(float64(len(products)-processed) / itemsPerSecond * float64(time.Second))
+			}
+
+			log.Printf("Прогресс обогащения: %.1f%% (%d/%d) - Обогащено: %d, Пропущено: %d, Ошибок: %d, Скорость: %.1f товаров/сек, Осталось: %v",
+				progress, processed, len(products), enriched, skipped, errors, itemsPerSecond, eta.Round(time.Second))
+		}
+	}
+
 	// Обогащаем каждый товар в отдельной горутине
-	for _, product := range products {
+	for i := range products {
 		// Если у товара уже есть характеристики, пропускаем его
-		if len(product.Features) > 0 && product.Description != "" {
-			productChan <- product
-			updateProgress("skipped")
+		if len(products[i].Features) > 0 && products[i].Description != "" {
+			productChan <- products[i]
+			updateProgress("skipped", "")
 			continue
 		}
 
 		wg.Add(1)
-		go func(prod Product) {
+		go func(index int) {
 			defer wg.Done()
+			prod := products[index]
 
 			// Получаем детальную информацию о товаре
-			details, err := getProductDetails(prod.URL, semaphore)
+			details, err := getProductDetails(prod.URL, semaphore, delayMs)
 			if err != nil {
-				log.Printf("Ошибка при получении деталей товара %s: %v", prod.Name, err)
+				errorMsg := fmt.Sprintf("%v", err)
+				log.Printf("Ошибка при получении деталей товара ID=%s, URL=%s: %v",
+					prod.ID, prod.URL, err)
 				productChan <- prod
-				updateProgress("error")
+				updateProgress("error", errorMsg)
 				return
 			}
 
@@ -768,10 +868,10 @@ func enrichProductsWithDetails(products []Product, semaphore chan struct{}) {
 			}
 
 			productChan <- prod
-			updateProgress("enriched")
-		}(product)
+			updateProgress("enriched", "")
+		}(i)
 
-		updateProgress("processed")
+		updateProgress("processed", "")
 	}
 
 	// Горутина для закрытия канала после завершения всех обработок
@@ -780,24 +880,43 @@ func enrichProductsWithDetails(products []Product, semaphore chan struct{}) {
 		close(productChan)
 	}()
 
-	// Заменяем товары на обогащенные
+	// Собираем обогащенные товары
 	enrichedProducts := make([]Product, 0, len(products))
 	for product := range productChan {
 		enrichedProducts = append(enrichedProducts, product)
 	}
 
-	// Заменяем исходный слайс на обогащенный
-	copy(products, enrichedProducts)
+	// Очищаем исходный слайс и копируем в него обогащенные товары
+	// Это безопасно работает даже если количество товаров изменилось
+	// из-за дедупликации
+	if len(enrichedProducts) > 0 {
+		// Очищаем products, сохраняя его ёмкость
+		products = products[:0]
 
-	log.Printf("Обогащение завершено: Всего товаров: %d, Обогащено: %d, Пропущено: %d, Ошибок: %d",
-		len(products), enriched, skipped, errors)
+		// Добавляем обогащенные товары
+		products = append(products, enrichedProducts...)
+	}
+
+	totalTime := time.Since(startTime)
+	itemsPerSecond := float64(len(products)) / totalTime.Seconds()
+
+	log.Printf("Обогащение завершено: Всего товаров: %d, Обогащено: %d, Пропущено: %d, Ошибок: %d, Время: %v, Средняя скорость: %.1f товаров/сек",
+		len(products), enriched, skipped, errors, totalTime.Round(time.Second), itemsPerSecond)
+
+	// Выводим статистику по ошибкам
+	if errors > 0 {
+		log.Println("Статистика ошибок:")
+		for errMsg, count := range errorMap {
+			log.Printf("  - %s: %d раз", errMsg, count)
+		}
+	}
 }
 
 // inspectPaginationOnCategory исследует пагинацию на странице категории
 func inspectPaginationOnCategory(url string) {
 	fmt.Printf("Исследование пагинации для URL: %s\n", url)
 
-	resp, err := doRequestWithRetry(url, 3)
+	resp, err := doRequestWithRetry(url, 3, delay)
 	if err != nil {
 		log.Fatalf("Ошибка при получении страницы: %v", err)
 	}
@@ -880,4 +999,59 @@ func inspectPaginationOnCategory(url string) {
 	fmt.Fprintf(f, "Есть следующая страница: %v\n", hasNextPage)
 
 	fmt.Printf("Исследование завершено. Результаты сохранены в файл pagination_structure.txt\n")
+}
+
+// removeDuplicateProducts удаляет дубликаты товаров из массива по ID
+func removeDuplicateProducts(products []Product) []Product {
+	// Создаем карту для хранения уникальных товаров
+	uniqueMap := make(map[string]Product)
+
+	// Создаем отображение для подсчета дубликатов
+	duplicateCount := make(map[string]int)
+
+	// Заполняем карту, используя ID товара как ключ
+	for _, product := range products {
+		if product.ID == "" {
+			continue // Пропускаем товары без ID
+		}
+
+		uniqueMap[product.ID] = product
+		duplicateCount[product.ID]++
+	}
+
+	// Выводим информацию о найденных дубликатах
+	duplicatesFound := 0
+	maxDuplicates := 0
+	var maxDuplicateID string
+
+	for id, count := range duplicateCount {
+		if count > 1 {
+			duplicatesFound++
+			if count > maxDuplicates {
+				maxDuplicates = count
+				maxDuplicateID = id
+			}
+		}
+	}
+
+	if duplicatesFound > 0 {
+		fmt.Printf("Найдено %d товаров с дубликатами. Максимальное количество дубликатов: %d для товара ID %s\n",
+			duplicatesFound, maxDuplicates, maxDuplicateID)
+	}
+
+	// Создаем новый массив с уникальными товарами
+	uniqueProducts := make([]Product, 0, len(uniqueMap))
+	for _, product := range uniqueMap {
+		uniqueProducts = append(uniqueProducts, product)
+	}
+
+	return uniqueProducts
+}
+
+// Max возвращает максимальное из двух целых чисел
+func maxNum(a, b int) int {
+	if a > b {
+		return a
+	}
+	return b
 }

@@ -1,161 +1,12 @@
 ﻿[
   {
-    "id": "9669358",
-    "name": "Токарные станки с наклонной станиной с ЧПУ IRONMAC ITX-408 HCNC и ITX-510 HCNC",
-    "url": "https://www.stanki.ru/catalog/s_naklonnoy_staninoy/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc/",
-    "description": "",
-    "price": "От 3 911 481 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/015/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnyy_stanok_s_naklonnoy_staninoy_s_chpu_ironmac_itx_408_hcnc.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 310; 360 мм",
-      "РМЦ: 450; 650 мм",
-      "Мощность: 11; 15 / 18,5 кВт",
-      "Вес: 3800; 5800 кг"
-    ]
-  },
-  {
-    "id": "9807622",
-    "name": "Токарный станок с ЧПУ IRONMAC IT-560",
-    "url": "https://www.stanki.ru/catalog/c_gorizontalnoy_staninoy/tokarnyy_stanok_s_chpu_ironmac_it_560/",
-    "description": "",
-    "price": "2 439 123 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/110/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnyy_stanok_s_chpu_ironmac_it_560.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 500 мм",
-      "РМЦ: 700 мм",
-      "Мощность: 7,5 кВт",
-      "Вес: 3000 кг"
-    ]
-  },
-  {
-    "id": "9517732",
-    "name": "Токарные центры SKM NL 1500/2000",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_tsentry_skm_ceriya_nl1500_2000/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/00c/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_tsentry_skm_ceriya_nl1500_2000.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 381 - 391 мм",
-      "РМЦ: 540 - 560 мм",
-      "Мощность: 15 - 18,5 кВт",
-      "Вес: 3800 - 3900 кг"
-    ]
-  },
-  {
-    "id": "9993574",
-    "name": "Токарные обрабатывающие центры SKMC DL2500 (M), DL3000L (M)",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_dl2500_m_dl3000l_m/",
-    "description": "",
-    "price": "13 116 537 ₽\n                15 129 404 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/c85/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_obrabatyvayushchie_tsentry_skm_dl2500_m_dl3000l_m.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 300 - 460 мм",
-      "РМЦ: 541 - 638 (1058) мм",
-      "Мощность: 15 / 18,5 кВт",
-      "Вес: 3500 - 4900 (5900) кг"
-    ]
-  },
-  {
-    "id": "9971934",
-    "name": "Токарно-фрезерные обрабатывающие центры SPECTR TC M",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_stanki_s_chpu_s_naklonnoy_staninoy_spectr_tc/",
-    "description": "",
-    "price": "От 6 908 506 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/509/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_stanki_s_chpu_s_naklonnoy_staninoy_spectr_tc.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 235 - 460 мм",
-      "РМЦ: 450 - 1000 мм",
-      "Мощность: 11 / 15 - 15 / 18,5 кВт",
-      "Вес: 4000 - 5500 кг"
-    ]
-  },
-  {
-    "id": "9993631",
-    "name": "Токарные обрабатывающие центры SKMC DL4000(M)",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_dl4000_m/",
-    "description": "",
-    "price": "От 21 212 886 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/d6a/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_obrabatyvayushchie_tsentry_skm_dl4000_m.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 550; 560 мм",
-      "РМЦ: 1042 - 3068 мм",
-      "Мощность: 30 / 22; 35 / 22кВт",
-      "Вес: 9950 - 12 550 кг"
-    ]
-  },
-  {
-    "id": "9993681",
-    "name": "Токарные обрабатывающие центры SKMC SL2000(S)Y",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_sl2000_s_y/",
-    "description": "",
-    "price": "16 539 751 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/7c6/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_obrabatyvayushchie_tsentry_skm_sl2000_s_y.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 300 мм",
-      "РМЦ: 510 мм",
-      "Мощность: 11 / 15 кВт",
-      "Вес: 3850 - 4200 кг"
-    ]
-  },
-  {
-    "id": "9993665",
-    "name": "Токарные обрабатывающие центры SKMC SL1500М и SL2000M",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_obrabatyvayushchie_tsentry_skm_sl1500m_i_sl2000m/",
-    "description": "",
-    "price": "9 717 241 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/f91/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_obrabatyvayushchie_tsentry_skm_sl1500m_i_sl2000m.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 250 мм",
-      "РМЦ: 290; 480 мм",
-      "Мощность: 15 / 18,5 кВт",
-      "Вес: 3100; 3300 кг"
-    ]
-  },
-  {
-    "id": "9993513",
-    "name": "Токарные обрабатывающие центры SKMC DL6000(L), DL7000(L), DL8000(L)",
-    "url": "https://www.stanki.ru/catalog/s_naklonnoy_staninoy/tokarnye_obrabatyvayushchie_tsentry_skm_dl6000_l_dl7000_l_dl8000_l/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/eaa/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_obrabatyvayushchie_tsentry_skm_dl6000_l_dl7000_l_dl8000_l.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 900 мм",
-      "РМЦ: 1600 (3200) мм",
-      "Мощность: 37 / 55 кВт",
-      "Вес: 16 300 (21 800) кг"
-    ]
-  },
-  {
-    "id": "3360488",
-    "name": "Гидравлические листогибочные прессы IRONMAC HPB-K",
-    "url": "https://www.stanki.ru/catalog/gidravlicheskie_listogibochnye_pressy/gidravlicheskie_listogibochnye_pressy_serii_hpb_k/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/ef3/500_200_17236f3bb137eb253405d06e58cacf26c/gidravlicheskie_listogibochnye_pressy_serii_hpb_k.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Кол-во управляемых осей: до 2",
-      "Усилие: 300 - 3000 кН",
-      "Длина гиба: 1600 - 3200 мм"
-    ]
-  },
-  {
     "id": "9695586",
     "name": "Оптоволоконная установка лазерного раскроя IRONMAC D-EP",
     "url": "https://www.stanki.ru/catalog/kompleksy_lazernogo_raskroya/optovolokonnaya_ustanovka_lazernogo_raskroya_ironmac_d_ep_e_ep/",
     "description": "",
     "price": "5 701 726 ₽",
     "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/739/500_200_17236f3bb137eb253405d06e58cacf26c/optovolokonnaya_ustanovka_lazernogo_raskroya_ironmac_d_ep_e_ep.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
       "Перемещение по осям X / Y / Z:",
       "3050 x 1530 x 315 - 6050 x 2030 x 315 мм",
@@ -166,127 +17,18 @@
     ]
   },
   {
-    "id": "13433",
-    "name": "Гидравлические листогибочные прессы SMD PBA",
-    "url": "https://www.stanki.ru/catalog/gidravlicheskie_listogibochnye_pressy/gidravlicheskie_listogibochnye_pressy_smd_seriya_rv/",
+    "id": "9811344",
+    "name": "Фрезерный обрабатывающий центр SPITZEN SMX-500 (VU500)",
+    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_sky_master_vu_500/",
     "description": "",
-    "price": "От 2 609 671 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/208/500_200_17236f3bb137eb253405d06e58cacf26c/gidravlicheskie_listogibochnye_pressy_smd_seriya_rv.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "price": "28 441 718 ₽",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/94f/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_sky_master_vu_500.png",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
-      "Кол-во управляемых осей: до 4",
-      "Усилие: 500 - 5000 кН",
-      "Длина гиба: 1300 - 6000 мм"
-    ]
-  },
-  {
-    "id": "8872635",
-    "name": "Проволочно-вырезные электроэрозионные станки IRONMAC DK77",
-    "url": "https://www.stanki.ru/catalog/provolochno_vyreznye_stanki/provolochno_vyreznoy_elektroerozionnyy_stanok_mod_dk7725_dk7725e/",
-    "description": "",
-    "price": "От 1 075 837 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/52d/500_200_17236f3bb137eb253405d06e58cacf26c/provolochno_vyreznoy_elektroerozionnyy_stanok_mod_dk7725_dk7725e.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Макс. размер заготовки:",
-      "630 х 800 х 300 мм",
-      "Макс. вес заготовки: 1000 кг",
-      "Угол наклона проволоки: ± 6° / 80 мм",
-      "(± 15° - 30° / 80 мм)"
-    ]
-  },
-  {
-    "id": "9994926",
-    "name": "Проволочно-вырезные электроэрозионные станки SPITZEN CWE с линейным приводом",
-    "url": "https://www.stanki.ru/catalog/provolochno_vyreznye_stanki/provolochno_vyreznye_elektroerozionnye_stanki_spitzen_cwe_s_lineynym_privodom/",
-    "description": "",
-    "price": "От 10 523 745 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/2f5/500_200_17236f3bb137eb253405d06e58cacf26c/provolochno_vyreznye_elektroerozionnye_stanki_spitzen_cwe_s_lineynym_privodom.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Макс. размер заготовки:",
-      "910 х 700 х 295 мм",
-      "Макс. вес заготовки: 450 кг",
-      "Угол наклона проволоки: ± 14,5° / 80 мм"
-    ]
-  },
-  {
-    "id": "9827163",
-    "name": "Фрезерные обрабатывающие центры IRONMAC IMV-10.55, IMV-12.60, IMV-13.60",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernye_obrabatyvayushchie_tsentry_ironmac_imv_10_55_i_imv_12_60/",
-    "description": "",
-    "price": "4 620 330 ₽\n                5 522 953 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/a08/500_200_17236f3bb137eb253405d06e58cacf26c/frezernye_obrabatyvayushchie_tsentry_ironmac_imv_10_55_i_imv_12_60.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые)",
-      "Размер рабочего стола:",
-      "1000 x 550; 1200 х 600 мм",
-      "Мощность: 15 / 22,5 кВт",
-      "Вес: 5000; 6000 кг"
-    ]
-  },
-  {
-    "id": "8917936",
-    "name": "Фрезерные обрабатывающие центры SPECTR SVL",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_spectr_serii_svl/",
-    "description": "",
-    "price": "7 422 660 ₽\n                8 772 230 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/9c3/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_spectr_serii_svl.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Новые опции: Fanuc 2 пакет, Manual Guide I, Прямой привод, Редуктор",
-      "Тип направляющих: качения (роликовые)",
-      "Размер рабочего стола:",
-      "1000 x 550 - 1500 х 700 мм",
-      "Мощность: 7,5 - 15 кВт",
-      "Вес: 4000 - 9000 кг"
-    ]
-  },
-  {
-    "id": "9590565",
-    "name": "Горизонтально-фрезерный центр SPECTR MHM-630",
-    "url": "https://www.stanki.ru/catalog/gorizontalno_frezernye_obrabatyvayushchie_tsentry_s_chpu/gorizontalno_frezernyy_obrabatyvayushchiy_tsentr_spectr_mhm_630/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/af2/500_200_17236f3bb137eb253405d06e58cacf26c/gorizontalno_frezernyy_obrabatyvayushchiy_tsentr_spectr_mhm_630.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения",
-      "Размер рабочего стола: 630 х 630 мм",
-      "Мощность: 35 кВт",
-      "Вес: 16 000 кг"
-    ]
-  },
-  {
-    "id": "15801",
-    "name": "Проволочно-вырезные электроэрозионные станки CHMER G (GX)",
-    "url": "https://www.stanki.ru/catalog/provolochno_vyreznye_stanki/provolochno_vyreznoy_elektroerozionnyy_stanok_mod_g43s_chmer_tayvan/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/fa1/500_200_17236f3bb137eb253405d06e58cacf26c/provolochno_vyreznoy_elektroerozionnyy_stanok_mod_g43s_chmer_tayvan.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Макс. размер заготовки:",
-      "910 х 700 х 295 мм",
-      "Макс. вес заготовки: 450 кг",
-      "Угол наклона проволоки: ± 14,5° / 80 мм"
-    ]
-  },
-  {
-    "id": "9811356",
-    "name": "Фрезерные обрабатывающие центры SPITZEN SMC-1360 и SMC-1876",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_sky_master_vl_1600a/",
-    "description": "",
-    "price": "11 655 714 ₽\n                13 950 000 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/192/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_sky_master_vl_1600a.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые)",
-      "Размер рабочего стола:",
-      "1280 x 600; 1800 x 760 мм",
-      "Мощность: 20,4 кВт",
-      "Вес: 7850; 13 200 кг"
+      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
+      "Размер рабочего стола: Ø 500 мм",
+      "Мощность: 15 / 38 кВт",
+      "Вес: 12 500 кг"
     ]
   },
   {
@@ -296,43 +38,12 @@
     "description": "",
     "price": "15 739 844 ₽\n                19 698 332 ₽",
     "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/47d/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_ironmac_imu_5x_400_pro.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
       "Тип 5-ти осевой обработки: наклонно-поворотный стол",
       "Размер рабочего стола: Ø 400 мм",
       "Мощность: 20 кВт",
       "Вес: 7600 кг"
-    ]
-  },
-  {
-    "id": "9853420",
-    "name": "Копировально-прошивные станки с ЧПУ IRONMAC DS",
-    "url": "https://www.stanki.ru/catalog/kopirovalno_proshivnyye_stanki/kopirovalno_proshivnye_stanki_s_chpu_ironmac_ds/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/900/500_200_17236f3bb137eb253405d06e58cacf26c/kopirovalno_proshivnye_stanki_s_chpu_ironmac_ds.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Размеры стола:",
-      "700 x 400 - 1100 x 600 мм",
-      "Макс. вес электрода: 50 кг",
-      "Макс. вес заготовки: 2500 кг",
-      "Вес: 2600 - 4000 кг"
-    ]
-  },
-  {
-    "id": "9811344",
-    "name": "Фрезерный обрабатывающий центр SPITZEN SMX-500 (VU500)",
-    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_sky_master_vu_500/",
-    "description": "",
-    "price": "28 441 718 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/94f/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_sky_master_vu_500.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
-      "Размер рабочего стола: Ø 500 мм",
-      "Мощность: 15 / 38 кВт",
-      "Вес: 12 500 кг"
     ]
   },
   {
@@ -342,153 +53,12 @@
     "description": "",
     "price": "28 333 020 ₽\n                33 349 923 ₽",
     "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/233/500_200_17236f3bb137eb253405d06e58cacf26c/portalnye_frezernye_tsentry_sky_master_vm_2018a_i_vm_3018a_.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
       "Размеры стола: 1650 x 1300 - 4100 x 1600 мм",
       "Мощность: 15 - 54 кВт",
       "Тип направляющих: качения / качения",
       "Вес: 18 500 - 29 000 кг"
-    ]
-  },
-  {
-    "id": "9980422",
-    "name": "Фрезерный обрабатывающий центр IRONMAC IMV-22.10 PRO",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_ironmac_imv_22_10_pro/",
-    "description": "",
-    "price": "13 875 978 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/2c4/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_ironmac_imv_22_10_pro.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые),           качения (шариковые)",
-      "Размер рабочего стола:",
-      "2200 x 1000 мм",
-      "Мощность: 22 / 26 кВт",
-      "Вес: 18 500 кг"
-    ]
-  },
-  {
-    "id": "9645047",
-    "name": "Фрезерный обрабатывающий центр IRONMAC IMU-5X 400",
-    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_43/",
-    "description": "",
-    "price": "13 471 038 ₽\n                18 241 217 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/42b/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_43.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
-      "Размер рабочего стола: Ø 400 мм",
-      "Мощность: 20 / 24 кВт",
-      "Вес: 8000 кг"
-    ]
-  },
-  {
-    "id": "10041473",
-    "name": "Фрезерный обрабатывающий центр SPECTR MC1260",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_spectr_mc1260/",
-    "description": "",
-    "price": "6 734 685 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/3f6/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_spectr_mc1260.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые)",
-      "Размер рабочего стола:",
-      "1200 х 600 мм",
-      "Мощность: 11 / 15 кВт",
-      "Вес: 6500 кг"
-    ]
-  },
-  {
-    "id": "9517873",
-    "name": "Токарные центры SKM NL 2500/3000",
-    "url": "https://www.stanki.ru/catalog/tokarnye_obrabatyvayushchie_tsentry/tokarnye_tsentry_skm_ceriya_nl2500_3000/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/3e8/500_200_17236f3bb137eb253405d06e58cacf26c/tokarnye_tsentry_skm_ceriya_nl2500_3000.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Ø обработки: 450 - 480 мм",
-      "РМЦ: 480 - 1100 мм",
-      "Мощность: 15 - 35 кВт",
-      "Вес: 4700 - 6900 кг"
-    ]
-  },
-  {
-    "id": "9637630",
-    "name": "Фрезерные обрабатывающие центры NAMSUN SPACE",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_namsun_space_540/",
-    "description": "",
-    "price": "От 13 555 518 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/424/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_namsun_space_540.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые); скольжения",
-      "Размер рабочего стола:",
-      "920 х 420; 1200 х 540 мм",
-      "Мощность: 13,2; 18,5 кВт",
-      "Вес: 4790; 8700 кг"
-    ]
-  },
-  {
-    "id": "9965523",
-    "name": "Фрезерный обрабатывающий центр SPITZEN SMC-1260F",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernye_obrabatyvayushchie_tsentry_vf_108/",
-    "description": "",
-    "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/494/500_200_17236f3bb137eb253405d06e58cacf26c/frezernye_obrabatyvayushchie_tsentry_vf_108.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые)",
-      "Размер рабочего стола:",
-      "1280 x 600  мм",
-      "Мощность: 30 кВт",
-      "Вес: 6900 кг"
-    ]
-  },
-  {
-    "id": "9602232",
-    "name": "Фрезерные обрабатывающие центры DMTG VDLS-850A",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/frezernye_obrabatyvayushchie_tsentry_dmtg_vdls/",
-    "description": "",
-    "price": "От 4 734 253 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/8d3/500_200_17236f3bb137eb253405d06e58cacf26c/frezernye_obrabatyvayushchie_tsentry_dmtg_vdls.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (шариковые)",
-      "Размер рабочего стола:",
-      "800 х 420 - 1120 х 560 мм",
-      "Мощность: 7,5 - 22,5 кВт",
-      "Вес: 4600 - 7000 кг"
-    ]
-  },
-  {
-    "id": "9695322",
-    "name": "Портальные фрезерные центры KMT KPM",
-    "url": "https://www.stanki.ru/catalog/portalnye_frezernye_obrabatyvayushchie_tsentry/portalnyy_frezernyy_tsentr_kpm_1525/",
-    "description": "",
-    "price": "От 15 865 260 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/11f/500_200_17236f3bb137eb253405d06e58cacf26c/portalnyy_frezernyy_tsentr_kpm_1525.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Размеры стола: 1000 x 1600 - 2500 x 6000 мм",
-      "Мощность: 15 - 26 кВт",
-      "Тип направляющих: качения / скольжения; роликовые / скольжения",
-      "Вес: 18 000 - 50 000 кг"
-    ]
-  },
-  {
-    "id": "9332319",
-    "name": "Вертикальные обрабатывающие центры KMT KVL",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/vertikalnye_obrabatyvayushchie_tsentry_kmt_seriya_kvl_neway/",
-    "description": "",
-    "price": "От 5 689 535 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/1f7/500_200_17236f3bb137eb253405d06e58cacf26c/vertikalnye_obrabatyvayushchie_tsentry_kmt_seriya_kvl_neway.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
-    "features": [
-      "Тип направляющих: качения (роликовые)",
-      "Размер рабочего стола:",
-      "750 х 420 - 1500 х 800 мм",
-      "Мощность: 5,5 - 18,5 кВт",
-      "Вес: 4000 - 11 000 кг"
     ]
   },
   {
@@ -498,7 +68,7 @@
     "description": "",
     "price": "Цена по запросу",
     "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/ff0/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_ironmac_imu_5x_300.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
       "Тип 5-ти осевой обработки: наклонно-поворотный стол",
       "Размер рабочего стола: Ø 300 мм",
@@ -507,19 +77,63 @@
     ]
   },
   {
-    "id": "9571795",
-    "name": "Вертикально-фрезерные обрабатывающие центры KMT KVL-SM",
-    "url": "https://www.stanki.ru/catalog/3_kh_osevye_obrabatyvayushchie_tsentry/vertikalno_frezernye_obrabatyvayushchie_tsentry_kmt_kvl_sm/",
+    "id": "9841057",
+    "name": "Фрезерный обрабатывающий центр IRONMAC IMU-5X 500 PRO",
+    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_ironmac_imu_5x_500_pro/",
     "description": "",
-    "price": "От 7 926 385 ₽",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/1b4/500_200_17236f3bb137eb253405d06e58cacf26c/vertikalno_frezernye_obrabatyvayushchie_tsentry_kmt_kvl_sm.jpg",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "price": "19 237 105 ₽\n                19 813 680 ₽",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/fed/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_ironmac_imu_5x_500_pro.jpg",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
-      "Тип направляющих: качения (шариковые), качения (роликовые)",
-      "Размер рабочего стола:",
-      "850 х 400 - 1600 х 700 мм",
-      "Мощность: 7,5 - 18,5 кВт",
-      "Вес: 4100 - 11 000 кг"
+      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
+      "Размер рабочего стола: Ø 500 мм",
+      "Мощность: 30; 54 кВт",
+      "Вес: 7200 кг"
+    ]
+  },
+  {
+    "id": "9695322",
+    "name": "Портальные фрезерные центры KMT KPM",
+    "url": "https://www.stanki.ru/catalog/portalnye_frezernye_obrabatyvayushchie_tsentry/portalnyy_frezernyy_tsentr_kpm_1525/",
+    "description": "",
+    "price": "От 15 865 260 ₽",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/11f/500_200_17236f3bb137eb253405d06e58cacf26c/portalnyy_frezernyy_tsentr_kpm_1525.jpg",
+    "category": "Tyazhelaya Metalloobrabotka",
+    "features": [
+      "Размеры стола: 1000 x 1600 - 2500 x 6000 мм",
+      "Мощность: 15 - 26 кВт",
+      "Тип направляющих: качения / скольжения; роликовые / скольжения",
+      "Вес: 18 000 - 50 000 кг"
+    ]
+  },
+  {
+    "id": "9590565",
+    "name": "Горизонтально-фрезерный центр SPECTR MHM-630",
+    "url": "https://www.stanki.ru/catalog/gorizontalno_frezernye_obrabatyvayushchie_tsentry_s_chpu/gorizontalno_frezernyy_obrabatyvayushchiy_tsentr_spectr_mhm_630/",
+    "description": "",
+    "price": "Цена по запросу",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/af2/500_200_17236f3bb137eb253405d06e58cacf26c/gorizontalno_frezernyy_obrabatyvayushchiy_tsentr_spectr_mhm_630.jpg",
+    "category": "Tyazhelaya Metalloobrabotka",
+    "features": [
+      "Тип направляющих: качения",
+      "Размер рабочего стола: 630 х 630 мм",
+      "Мощность: 35 кВт",
+      "Вес: 16 000 кг"
+    ]
+  },
+  {
+    "id": "9645047",
+    "name": "Фрезерный обрабатывающий центр IRONMAC IMU-5X 400",
+    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_43/",
+    "description": "",
+    "price": "13 471 038 ₽\n                18 241 217 ₽",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/42b/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_43.jpg",
+    "category": "Tyazhelaya Metalloobrabotka",
+    "features": [
+      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
+      "Размер рабочего стола: Ø 400 мм",
+      "Мощность: 20 / 24 кВт",
+      "Вес: 8000 кг"
     ]
   },
   {
@@ -529,7 +143,7 @@
     "description": "",
     "price": "Цена по запросу",
     "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/9dd/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_80.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
       "Тип 5-ти осевой обработки: наклонно-поворотный стол",
       "Размер рабочего стола: Ø 800 мм",
@@ -538,18 +152,33 @@
     ]
   },
   {
-    "id": "8873413",
-    "name": "Проволочно-вырезные электроэрозионные станки Kingred KD400",
-    "url": "https://www.stanki.ru/catalog/provolochno_vyreznye_stanki/provolochno_vyreznoy_elektroerozionnyy_stanok_mod_kd400gl_zl/",
+    "id": "9646912",
+    "name": "Фрезерный обрабатывающий центр IRONMAC IMU-5X 500",
+    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_50/",
+    "description": "",
+    "price": "28 788 199 ₽\n                34 887 000 ₽",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/49b/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_50.jpg",
+    "category": "Tyazhelaya Metalloobrabotka",
+    "features": [
+      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
+      "Размер рабочего стола: Ø 500 мм",
+      "Мощность: 15 / 38 кВт",
+      "Вес: 13 000 кг"
+    ]
+  },
+  {
+    "id": "9646927",
+    "name": "Фрезерный обрабатывающий центр IRONMAC IMU-5X 630",
+    "url": "https://www.stanki.ru/catalog/5_ti_osevye_obrabatyvayushchie_tsentry/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_63/",
     "description": "",
     "price": "Цена по запросу",
-    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/e2d/500_200_17236f3bb137eb253405d06e58cacf26c/provolochno_vyreznoy_elektroerozionnyy_stanok_mod_kd400gl_zl.png",
-    "category": "Metalloobrabatyvayuschee Oborudovanie",
+    "image_url": "https://www.stanki.ru/upload/resize_cache/iblock/c43/500_200_17236f3bb137eb253405d06e58cacf26c/frezernyy_obrabatyvayushchiy_tsentr_srectr_svf_63.jpg",
+    "category": "Tyazhelaya Metalloobrabotka",
     "features": [
-      "Макс. размер заготовки:",
-      "435 х 650 х 280 мм",
-      "Макс. вес заготовки: 400 кг",
-      "Угол наклона проволоки: ± 12° / 80 мм"
+      "Тип 5-ти осевой обработки: наклонно-поворотный стол",
+      "Размер рабочего стола: Ø 630 мм",
+      "Мощность: 18 / 22 кВт",
+      "Вес: 15 000 кг"
     ]
   }
 ]

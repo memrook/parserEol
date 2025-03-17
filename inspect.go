@@ -105,7 +105,7 @@ func inspectCatalogPage() error {
 				}
 			})
 		}
-		fmt.Fprintln(f, "===\n")
+		fmt.Fprintln(f, "===")
 	}
 
 	// Дополнительно исследуем страницу на наличие блоков с каталогом
