@@ -26,7 +26,7 @@
 ## Установка
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/memrook/parserEol.git
 cd parserEol
 go get -u github.com/PuerkitoBio/goquery
 go get -u golang.org/x/text/encoding
